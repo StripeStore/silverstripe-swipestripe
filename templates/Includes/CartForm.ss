@@ -50,9 +50,6 @@
 	</table>
 
 	<div class="Actions">
-		<p class="attribution">
-			<%t CartForm.POWERED_BY 'powered by' %> <a target="_blank" href="http://swipestripe.com">SwipeStripe Ecommerce</a>
-		</p>
 		 
 		<% if Cart.Items %>
 			<% if Actions %>
